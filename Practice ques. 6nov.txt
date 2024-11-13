@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <hr>
+    HTML is the standard markup language for creating web pages.
+    <hr>
+
+    <h1>What is HTML?
+    </h1>
+
+    <ul>
+        <li>HTML stands for Hyper Text Markup Language.</li>
+        <li>HTML is the standard markup language for creating Web pages.</li>
+        <li>HTML describes the structure of a Web page.</li>
+        <li>HTML consists of a series of elements.</li>
+        <li>HTML elements tell the browser how to display the content.</li>
+    </ul>
+</body>
+</html>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HTML
+    </h1>
+
+    <h2>This is basics about HTML</h2>
+<p><b>Hypertext Markup Language,</b> or HTML is a programming language used to describe the structure of web pages. HTML makes it possible to create static pages with text,headings,
+tables,lists,images,links,and so on.HTML is used to add text elements and create the structure of content. However, it is not enough to build a professional and fully responsive 
+websites.So, HTML needs the help of CSS and JS to create the vast majority of website content</p>
+
+<h2>HTML History</h2>
+
+1991:<b>Tim Berners-Lee invents</b> HTML 1.0<br>
+1993:HTML 1.0 is released.<br>
+1995:HTML 2.0 is published. This contains the features of HTML 1.0 plus new features.<br>
+1997:HTML 3.0 was invented.<br>
+1999:The widely-used HTML 4.0 comes out.
+
+<h2>Conclusion</h2>
+
+<P>HTML is the primary markup language found on the internet.Every HTML page has a series of elements that create the content structure of a web page or application.
+    HTML is a beginner-friendly language with plenty of support and is mainly used for <b>static website pages.</b>HTML works best together with CSS for styling and JavaScript for functionality.
+</P>
+</body>
+</html>
+
+
+
