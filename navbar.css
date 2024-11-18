@@ -1,0 +1,47 @@
+.main{
+    height:60px;
+    display:flex;
+    background-color: black;
+    justify-content: space-between;
+    
+}
+
+img{
+    width:150px;
+    height:fit-content;
+    padding-left: 15px;
+    padding-top: 10px;
+
+}
+
+.items{
+    display:flex;
+    justify-content: space-around;
+    color: white;
+    width:500px;
+    
+}
+
+.items p{
+    font-size: 18px;
+    
+}
+
+.items p:hover{
+    color:pink;
+}
+
+.box{
+    padding-top: 20px;
+    padding-right: 40px;
+    
+}
+
+.button{
+    height: 40px;
+    width:100px;
+    border-radius: 12px;
+  
+}
+
+
